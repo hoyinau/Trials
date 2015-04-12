@@ -2,9 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/hoyinau/stringutil"
 )
 
 func main() {
-	fmt.Printf(stringutil.Reverse("\n!oG ,olleH"))
+	fmt.Printf("Hello World! 你好嗎？\n")
 }
